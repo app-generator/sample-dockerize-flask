@@ -2,6 +2,21 @@
 
 This is a view counter app that is written in [Python](https://www.python.org/) using [Flask](https://flask.palletsprojects.com/) framework, packaged using [Docker](https://www.docker.com/).
 
+<br />
+
+## ✨ Quick Start in `Docker`
+
+@Todo - the minimal set up to start the project. Something like:
+
+```bash
+$ git clone repo
+$ docker-compose up --build
+```
+
+At this point, the app runs at `localhost:9999`
+
+<br />
+
 ## Creating a Flask App
 
 ### Installing Python
