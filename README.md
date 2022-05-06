@@ -98,12 +98,6 @@ In production, [Gunicorn](https://gunicorn.org/) is used as the server and bytec
 docker-compose up --build
 ```
 
-### Production
-
-```
-docker-compose --file docker-compose.prod.yml up --build
-```
-
 ## Customizing
 
 Docker images can be customized using environment variables or customized during build time using build arguments.
